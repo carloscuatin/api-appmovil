@@ -1,0 +1,25 @@
+{
+  "name": "api-appmovil",
+  "version": "1.0.0",
+  "description": "REST API to display mobile app activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloscuatin/api-appmovil.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "Carlos Cuatin <cecg1996@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloscuatin/api-appmovil/issues"
+  },
+  "homepage": "https://github.com/carloscuatin/api-appmovil#readme"
+}
